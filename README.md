@@ -1,0 +1,2 @@
+# thusa-bantu-
+this is the group assignment for software evolution and reengineering.Topic : Create an application of your choice that is relevant to HIT using python programming language and upload the source code on Github. Your system should clearly pay attention to these specific areas:  Version control Change tracking Graphical visualization. Group members : George Janasi , Natasha Murimwa , Tonderai Chikosi, Kudzaishe Mufuka, Milton Mupinga, Nyasha Wamedza
